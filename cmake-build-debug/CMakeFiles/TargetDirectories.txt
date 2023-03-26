@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/Tile2048/cmake-build-debug/CMakeFiles/Tile2048.dir
+C:/Users/User/Desktop/Tile2048/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Tile2048/cmake-build-debug/CMakeFiles/rebuild_cache.dir
